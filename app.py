@@ -3,7 +3,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-from sklearn.preprocessing import StandardScaler
 
 # Load your trained model
 filename1 = 'model1.sav'
