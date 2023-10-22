@@ -26,7 +26,7 @@ features = {
     'lam': 'Left Attacking Midfield Rating', 'cam': 'Center Attacking Midfield Rating', 'ram': 'Right Attacking Midfield Rating',
     'lm': 'Left Midfield Rating', 'lcm': 'Left Central Midfield Rating', 'cm': 'Central Midfield Rating',
     'rcm': 'Right Central Midfield Rating', 'rm': 'Right Midfield Rating',
-    'potential': 'Potential Rating', 'release_clause_eur': 'Release Clause (EUR)',
+    'potential': 'Potential Rating', 'release_clause_eur': 'Release Clause (1 - 1 000 000 000 EUR)',
     'passing': 'Passing Rating', 'movement_reactions': 'Movement Reactions Rating',
     'mentality_composure': 'Mentality Composure Rating'
 }
