@@ -43,8 +43,8 @@ The trained models are saved using pickle for future deployment. Additionally, t
 - Required Python libraries (Pandas, NumPy, Scikit-learn, XGBoost, joblib)
 
 ## Important Links
-Demonstration Video: https://drive.google.com/file/d/1eJfRgwqafL2AxYITxnGdiiIoSPOmvGHU/view?usp=sharing
-Application Link: https://player-ratingapp.streamlit.app
+- Demonstration Video: https://drive.google.com/file/d/1eJfRgwqafL2AxYITxnGdiiIoSPOmvGHU/view?usp=sharing
+- Application Link: https://player-ratingapp.streamlit.app
 
 
 ## License
