@@ -45,8 +45,3 @@ The trained models are saved using pickle for future deployment. Additionally, t
 ## Important Links
 - Demonstration Video: https://drive.google.com/file/d/1eJfRgwqafL2AxYITxnGdiiIoSPOmvGHU/view?usp=sharing
 - Application Link: https://player-ratingapp.streamlit.app
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
